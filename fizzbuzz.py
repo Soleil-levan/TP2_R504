@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
-def affiche(n):
+def affiche(n1, n2 + 1):
+	elements = []
+	for i in ra
 	return "".join(
 	"FrisBee" if i % 15 == 0 else "Fizz" 
 	if i % 3 == 0 else "Buzz" 
